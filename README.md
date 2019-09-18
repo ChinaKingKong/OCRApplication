@@ -7,4 +7,3 @@
   
 ![](https://github.com/ChinaKingKong/OCRApplication/blob/master/MasterImages/P3.jpeg)
    
-![](https://github.com/ChinaKingKong/OCRApplication/blob/master/MasterImages/P4.jpeg)
